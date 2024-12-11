@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "projectImg": "/assets/images/project1-img.png",
+        "projectTitle": "Portfolio Website",
+        "projectDescription": "A personal portfolio website showcasing my projects and skills.",
+        "projectDescription2": "This website includes sections for my bio, projects, contact information, and a blog."
+    },
+    {
+        "id": 2,
+        "projectImg": "/assets/images/project2-img.png",
+        "projectTitle": "E-commerce Platform",
+        "projectDescription": "An e-commerce platform for selling products online.",
+        "projectDescription2": "Features include product listings, shopping cart, checkout process, and user authentication."
+    },
+    {
+        "id": 3,
+        "projectImg": "/assets/images/project3-img.png",
+        "projectTitle": "Blog Website",
+        "projectDescription": "A blog website for sharing articles and posts.",
+        "projectDescription2": "Includes features like categories, tags, comments, and a content management system."
+    },
+    {
+        "id": 4,
+        "projectImg": "/assets/images/project4-img.png",
+        "projectTitle": "Social Media App",
+        "projectDescription": "A social media application for connecting with friends and sharing updates.",
+        "projectDescription2": "Features include user profiles, friend requests, messaging, and news feed."
+    },
+    {
+        "id": 5,
+        "projectImg": "/assets/images/project5-img.png",
+        "projectTitle": "Event Management System",
+        "projectDescription": "A system for managing and organizing events.",
+        "projectDescription2": "Includes features like event creation, registration, ticketing, and attendee management."
+    },
+    {
+        "id": 6,
+        "projectImg": "/assets/images/project6-img.png",
+        "projectTitle": "Online Learning Platform",
+        "projectDescription": "A platform for online learning and course management.",
+        "projectDescription2": "Features include course creation, enrollment, quizzes, and progress tracking."
+    }
+]
